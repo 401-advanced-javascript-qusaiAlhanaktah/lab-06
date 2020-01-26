@@ -1,0 +1,32 @@
+{
+  "categories": [
+    {
+      "_id": 2,
+      "name": "Pizaa",
+      "display_name": "Alfredo",
+      "description": "So delicious"
+    },
+    {
+      "_id": 1,
+      "name": "BURGGER",
+      "display_name": "KHAMICKAZII",
+      "description": "Heavy meal"
+    }
+  ],
+  "products": [
+    {
+      "_id": 1,
+      "category": "BURGGER",
+      "name": "BURGGER",
+      "display_name": "KHAMICKAZII",
+      "description": "Heavy meal"
+    },
+    {
+      "_id": 2,
+      "category": "Pizaa",
+      "name": "Pizaa",
+      "display_name": "Alfredo",
+      "description": "great man"
+    }
+  ]
+}
